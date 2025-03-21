@@ -173,3 +173,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 cred.txt
+
+data/
+local_S3/
+
+models/
